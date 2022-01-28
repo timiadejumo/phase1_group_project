@@ -32,7 +32,7 @@ IMDb, TNDb, and TMDb are data giants in the film industry, aggregating data from
 #### Mean Domestic and International Gross by Genre
 
 
-![Mean Gross Revenue by Genre](".images/gross_rev_genre.png")
+![Mean Gross Revenue by Genre](images/gross_rev_genre.png)
     
 
 
@@ -42,7 +42,7 @@ The popularity score is a TMDb dynamic activity metric based off user activity o
 
 
     
-![Mean Popularity by Genre](".images/pop_score_genre.png")
+![Mean Popularity by Genre](images/pop_score_genre.png)
     
 
 
@@ -51,7 +51,7 @@ The popularity score is a TMDb dynamic activity metric based off user activity o
 After a look at the regression coefficients for different dataframe elements, we decided to create a regression line for the most prominent factor for worldwide gross revenue from the filtered `df1` dataframe. The production budget.
 
     
-![Revenue and Budget Regression](".images/rev_budget_regression.png")
+![Revenue and Budget Regression](images/rev_budget_regression.png)
     
 
 
