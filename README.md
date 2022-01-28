@@ -5,7 +5,7 @@ Please fill out:
 * Student pace: full time
 * Scheduled project review date/time: January 28, 2022 @ 13:00 EST
 * Instructor name: Angela Spratley
-* Blog post URL: [Presentation URL](Phase 1 Presentation - Elijah, Timi, Brian.pdf)
+* Blog post URL: [Presentation URL](https://github.com/timiadejumo/phase1_group_project/blob/main/Phase%201%20Presentation%20-%20Elijah%2C%20Timi%2C%20Brian.pdf)
 
 
 
