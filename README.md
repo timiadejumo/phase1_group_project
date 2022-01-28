@@ -1,7 +1,7 @@
 ## Final Project Submission
 
 Please fill out:
-* Student names: Brian Reynolds, Timi, Elijah 
+* Student names: Brian Reynolds, Timi Adejumo, Elijah Jarocki
 * Student pace: full time
 * Scheduled project review date/time: January 28, 2022 @ 13:00 EST
 * Instructor name: Angela Spratley
