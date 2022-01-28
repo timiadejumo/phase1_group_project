@@ -1,15 +1,31 @@
 ## Final Project Submission
 
 Please fill out:
-* Student names: Brian Reynolds, Timi, Elijah 
+* Student names: Brian Reynolds, Timi Adejumo, Elijah Jarocki
 * Student pace: full time
 * Scheduled project review date/time: January 28, 2022 @ 13:00 EST
 * Instructor name: Angela Spratley
-* Blog post URL: [Presentation URL](https://docs.google.com/presentation/d/1cADNcHR5NDQS5IwOY5RZL5a9IFsmjNtMl0DcrG1VPVw/edit#slide=id.g110ace6103c_0_137)
+* Blog post URL: 
 
 
 
 ---
+REPOSITORY:
+The repository includes multiple files
+
+Phase_1_Contract_011022.docx : Contract detailing team duties
+
+Project_1.ipynb : Jupyter Notebook with project data, analysis, explanation and visualizations
+
+README.md : currently viewing project description
+
+ZippedData : project resources
+
+Master_Data_Set.ipynb : master data set with combined data and methods
+
+Phase 1 Presentation - Elijah, Timi, Brian.pdf : Presentation slides
+
+images : image folder for this file
 
 
 # Microsoft Film Studios
