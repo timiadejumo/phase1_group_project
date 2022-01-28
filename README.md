@@ -13,7 +13,6 @@ Please fill out:
 REPOSITORY:
 The repository includes multiple files
 
-.canvas : project original URL
 Phase_1_Contract_011022.docx : Contract detailing team duties
 Project_1.ipynb : Jupyter Notebook with project data, analysis, explanation and visualizations
 README.md : currently viewing project description
